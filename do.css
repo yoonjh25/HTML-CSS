@@ -1,0 +1,25 @@
+h1{background-color: darkolivegreen;
+font-size: 70px;
+padding: 90px;
+margin: 90px;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;}
+
+#p1 {font-size: 50px;
+    text-align: left;
+   
+}
+
+h2,h4, h3{font-size: 40px;
+font-family: 'Times New Roman', Times, serif;
+background-color: rgb(163, 180, 135);
+    padding: 30px;
+margin: 30px}
+
+p { 
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px
+}
+
+
